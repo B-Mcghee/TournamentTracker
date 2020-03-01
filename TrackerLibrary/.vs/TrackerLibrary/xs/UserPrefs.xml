@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrackerLibrary/MatchupEntryModel.cs">
+    <Files>
+      <File FileName="TrackerLibrary/TeamModel.cs" Line="9" Column="82" />
+      <File FileName="TrackerLibrary/PersonModel.cs" Line="11" Column="1" />
+      <File FileName="TrackerLibrary/TournamentModel.cs" Line="14" Column="95" />
+      <File FileName="TrackerLibrary/PrizeModel.cs" Line="6" Column="36" />
+      <File FileName="TrackerLibrary/MatchupModel.cs" Line="11" Column="46" />
+      <File FileName="TrackerLibrary/MatchupEntryModel.cs" Line="6" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrackerLibrary" expanded="True">
+            <Node name="TrackerLibrary" expanded="True">
+              <Node name="MatchupEntryModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TrackerLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
